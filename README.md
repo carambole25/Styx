@@ -1,2 +1,2 @@
 # Styx
-Agrégateur de flux RSS pour la veille technologique orienté cybersécurité
+RSS feed aggregator for cybersecurity-oriented technology monitoring
